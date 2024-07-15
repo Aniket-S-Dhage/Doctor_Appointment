@@ -1,0 +1,52 @@
+{
+  "appointments": [
+    {
+      "id": "1",
+      "name": "Ganesh",
+      "fees": 550,
+      "date": "2020-02-14",
+      "time": "10pm",
+      "status": "Cancelled by You"
+    },
+    {
+      "id": "8cb5",
+      "name": "Doc 1",
+      "fees": "800",
+      "date": "2024-07-04",
+      "time": "15:44",
+      "status": "Cancelled by You"
+    },
+    {
+      "id": "343e",
+      "name": "Doc 2",
+      "fees": "560",
+      "date": "2024-07-04",
+      "time": "13:45",
+      "status": "Cancelled by You"
+    },
+    {
+      "id": "863e",
+      "name": "Doc 4",
+      "fees": "700",
+      "date": "2024-07-04",
+      "time": "13:56",
+      "status": "Cancelled by You"
+    },
+    {
+      "id": "173a",
+      "name": "Doc 6",
+      "fees": "1200",
+      "date": "2024-07-02",
+      "time": "14:14",
+      "status": "Active"
+    },
+    {
+      "id": "5c84",
+      "name": "Doc 78",
+      "fees": "4500",
+      "date": "2024-07-02",
+      "time": "02:13",
+      "status": "Active"
+    }
+  ]
+}
